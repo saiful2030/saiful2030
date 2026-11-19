@@ -1,8 +1,8 @@
 # 💫 About Me
 
-Hi! I'm a Computer Engineering student with a strong interest in computer hardware, network security, and software development.
+Hi! I'm a Computer Engineering graduate with a strong interest in computer hardware, network security, and software development.
 
-I'm passionate about exploring new technologies, building projects, and continuously improving my skills in the field of technology. I enjoy working with programming, networking, server infrastructure, and embedded systems.
+I'm passionate about exploring new technologies, building innovative projects, and continuously expanding my knowledge in the field of technology. I enjoy working with programming, networking, server infrastructure, and embedded systems.
 
 ### 💻 Tech Stack & Tools
 
